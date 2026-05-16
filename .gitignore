@@ -2,5 +2,5 @@ FashionStyle14_v1/
 FashionStyle14_v1.zip
 __MACOSX/
 .DS_Store
-results
+results/*.pt
 LLaVA/

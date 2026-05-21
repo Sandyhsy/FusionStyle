@@ -1,0 +1,9 @@
+comparison,metric,n,median_difference,wilcoxon_statistic,p_value,reject_H0
+cross_attention vs clip,macro_f1,10,0.0014513045473718567,28.0,0.5,False
+cross_attention vs clip,accuracy,10,0.0015136226034309086,27.0,0.5283203125,False
+cross_attention vs convnext,macro_f1,10,0.06909204745889902,55.0,0.0009765625,True
+cross_attention vs convnext,accuracy,10,0.07214934409687185,55.0,0.0009765625,True
+cross_attention vs swin,macro_f1,10,0.05370152419173202,55.0,0.0009765625,True
+cross_attention vs swin,accuracy,10,0.054490413723511544,55.0,0.0009765625,True
+cross_attention vs vit,macro_f1,10,0.257413522261384,55.0,0.0009765625,True
+cross_attention vs vit,accuracy,10,0.2626135216952573,55.0,0.0009765625,True

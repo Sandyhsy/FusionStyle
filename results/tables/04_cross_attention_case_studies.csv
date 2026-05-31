@@ -1,0 +1,7 @@
+seed,sample_idx,true,pred,confidence,max_attn_token,correct
+13,7,natural,natural,0.997343361377716,the,True
+13,2,mode,mode,0.6707494854927063,hips,True
+13,5,ethnic,ethnic,0.9968878626823424,the,True
+13,0,retro,feminine,0.9607922434806824,dress,False
+13,4,retro,fairy,0.9907750487327576,.,False
+13,1,retro,girlish,0.8850603103637695,.,False

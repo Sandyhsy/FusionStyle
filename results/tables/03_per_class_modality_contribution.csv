@@ -1,0 +1,15 @@
+true_class,n_samples,mean_conf_full,confidence_drop_remove_text,confidence_drop_remove_image,modality_balance_text_share,dominant_modality,interpretation,peak_token_pos,mean_peak_attention_weight
+conservative,1378,0.836,0.463,0.4945,0.484,balanced,"Removing either modality reduces confidence more (text Δ=0.463, image Δ=0.495).",1,0.01607353664516295
+dressy,1344,0.9902,0.6171,0.4568,0.575,text,"Removing text reduces confidence more (text Δ=0.617, image Δ=0.457).",11,0.0332999719451359
+ethnic,1290,0.9179,0.5447,0.4967,0.523,balanced,"Removing either modality reduces confidence more (text Δ=0.545, image Δ=0.497).",1,0.025142154878735418
+fairy,1433,0.9737,0.6004,0.4818,0.555,text,"Removing text reduces confidence more (text Δ=0.600, image Δ=0.482).",4,0.01696084650649908
+feminine,1210,0.8606,0.4874,0.4689,0.51,balanced,"Removing either modality reduces confidence more (text Δ=0.487, image Δ=0.469).",1,0.019067512536089452
+gal,1430,0.9107,0.5375,0.5398,0.499,balanced,"Removing either modality reduces confidence more (text Δ=0.538, image Δ=0.540).",10,0.01700442373159114
+girlish,1660,0.7964,0.4233,0.4059,0.511,balanced,"Removing either modality reduces confidence more (text Δ=0.423, image Δ=0.406).",1,0.01600882800822617
+kireime-casual,1580,0.8194,0.4463,0.4778,0.483,balanced,"Removing either modality reduces confidence more (text Δ=0.446, image Δ=0.478).",9,0.018219821494991982
+lolita,1597,0.9781,0.6049,0.4751,0.56,text,"Removing text reduces confidence more (text Δ=0.605, image Δ=0.475).",1,0.02268372395016238
+mode,1590,0.8981,0.525,0.5602,0.484,balanced,"Removing either modality reduces confidence more (text Δ=0.525, image Δ=0.560).",17,0.02025326696977179
+natural,1290,0.891,0.5179,0.4989,0.509,balanced,"Removing either modality reduces confidence more (text Δ=0.518, image Δ=0.499).",1,0.02121552670389849
+retro,1270,0.8871,0.514,0.454,0.531,text,"Removing text reduces confidence more (text Δ=0.514, image Δ=0.454).",1,0.01884382427427144
+rock,1212,0.9152,0.5421,0.5566,0.493,balanced,"Removing either modality reduces confidence more (text Δ=0.542, image Δ=0.557).",9,0.0250176972326548
+street,1536,0.9514,0.5784,0.538,0.518,balanced,"Removing either modality reduces confidence more (text Δ=0.578, image Δ=0.538).",1,0.01807513650504778

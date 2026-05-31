@@ -1,0 +1,7 @@
+seed,model,case_type,true,pred,file
+53,cross_attention,success,rock,rock,cross_attention\seed_53\success_03.png
+13,cross_attention,success,conservative,conservative,cross_attention\seed_13\success_05.png
+58,cross_attention,success,ethnic,ethnic,cross_attention\seed_58\success_03.png
+13,cross_attention,failure,natural,girlish,cross_attention\seed_13\failure_05.png
+53,cross_attention,failure,mode,rock,cross_attention\seed_53\failure_05.png
+72,cross_attention,failure,girlish,retro,cross_attention\seed_72\failure_01.png

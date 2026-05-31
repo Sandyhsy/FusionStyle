@@ -1,0 +1,16 @@
+pair,true_class,pred_class,count,rate_given_true (%)
+kireime-casual → conservative,kireime-casual,conservative,218,13.8
+conservative → kireime-casual,conservative,kireime-casual,155,11.25
+girlish → feminine,girlish,feminine,151,9.1
+mode → rock,mode,rock,145,9.12
+street → rock,street,rock,105,6.84
+girlish → kireime-casual,girlish,kireime-casual,103,6.2
+feminine → girlish,feminine,girlish,102,8.43
+rock → mode,rock,mode,92,7.59
+girlish → natural,girlish,natural,88,5.3
+feminine → conservative,feminine,conservative,76,6.28
+natural → kireime-casual,natural,kireime-casual,75,5.81
+girlish → gal,girlish,gal,66,3.98
+kireime-casual → natural,kireime-casual,natural,63,3.99
+mode → kireime-casual,mode,kireime-casual,62,3.9
+kireime-casual → girlish,kireime-casual,girlish,62,3.92
